@@ -1,0 +1,7 @@
+C:\Users\SIIM\source\repos\PangaautomaatS\PangaautomaatS\obj\Debug\PangaautomaatS.csprojResolveAssemblyReference.cache
+C:\Users\SIIM\source\repos\PangaautomaatS\PangaautomaatS\obj\Debug\PangaautomaatS.csproj.CoreCompileInputs.cache
+C:\Users\SIIM\source\repos\PangaautomaatS\PangaautomaatS\bin\Debug\PangaautomaatS.exe.config
+C:\Users\SIIM\source\repos\PangaautomaatS\PangaautomaatS\bin\Debug\PangaautomaatS.exe
+C:\Users\SIIM\source\repos\PangaautomaatS\PangaautomaatS\bin\Debug\PangaautomaatS.pdb
+C:\Users\SIIM\source\repos\PangaautomaatS\PangaautomaatS\obj\Debug\PangaautomaatS.exe
+C:\Users\SIIM\source\repos\PangaautomaatS\PangaautomaatS\obj\Debug\PangaautomaatS.pdb
